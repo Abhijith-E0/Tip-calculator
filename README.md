@@ -6,7 +6,7 @@ A simple and responsive Tip Calculator built using HTML, CSS, and JavaScript. Th
 
 - Calculate tip amount based on bill total
 - Display total amount including tip
-- Input validation
+- Input validation   
 - Clean and responsive user interface
 - Beginner-friendly project
 
