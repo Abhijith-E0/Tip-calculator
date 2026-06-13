@@ -31,5 +31,4 @@ tip-calculator/
 ```
 ## Screenshot
 
-![Tip calculator screenshot](images/screenshot.png)
-
+![Tip Calculator Screenshot](screenshot.png)
