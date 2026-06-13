@@ -18,6 +18,7 @@ A simple and responsive Tip Calculator built using HTML, CSS, and JavaScript. Th
 
 ## Project Structure
 
+```text
 tip-calculator/
 │
 ├── images/
